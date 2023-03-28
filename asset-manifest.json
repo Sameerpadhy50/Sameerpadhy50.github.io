@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57d7df8d.css",
+    "main.js": "/static/js/main.6a5a29e1.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Freshly.gif": "/static/media/Freshly.e810b98eee6676c9f653.gif",
+    "static/media/Wearly.gif": "/static/media/Wearly.42b6f9fbc61573258778.gif",
+    "static/media/Pear.gif": "/static/media/Pear.2e0a81e65927739ac97c.gif",
+    "static/media/A30-013.jpg": "/static/media/A30-013.79de34a25db4fa319762.jpg",
+    "static/media/Sameerkumar-Padhy-Resume.pdf": "/static/media/Sameerkumar-Padhy-Resume.2d42a554026f4fc0751a.pdf",
+    "static/media/cypress.png": "/static/media/cypress.d77f8449ebe8b2bcfa8d.png",
+    "static/media/Fire.gif": "/static/media/Fire.90b493aa82972410ff7e.gif",
+    "static/media/sam_logo.png": "/static/media/sam_logo.c8c5f91e2d3ebf8a2a75.png",
+    "static/media/express.png": "/static/media/express.c1af1dd1c23d9e6dc11d.png",
+    "index.html": "/index.html",
+    "main.57d7df8d.css.map": "/static/css/main.57d7df8d.css.map",
+    "main.6a5a29e1.js.map": "/static/js/main.6a5a29e1.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d7df8d.css",
+    "static/js/main.6a5a29e1.js"
+  ]
+}
