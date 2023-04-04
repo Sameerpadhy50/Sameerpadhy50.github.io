@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.57d7df8d.css",
-    "main.js": "/static/js/main.141f6772.js",
+    "main.js": "/static/js/main.75bea68c.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Freshly.gif": "/static/media/Freshly.e810b98eee6676c9f653.gif",
-    "static/media/Wearly.gif": "/static/media/Wearly.42b6f9fbc61573258778.gif",
-    "static/media/Pear.gif": "/static/media/Pear.2e0a81e65927739ac97c.gif",
     "static/media/A30-013.jpg": "/static/media/A30-013.79de34a25db4fa319762.jpg",
+    "static/media/FurnitureTry_pic.png": "/static/media/FurnitureTry_pic.e12f34473e8cd635d336.png",
+    "static/media/FatSecret_pic.png": "/static/media/FatSecret_pic.8a7ec7bd05d02b303a58.png",
+    "static/media/Medihub_pic.png": "/static/media/Medihub_pic.60e74e18718b858d3df5.png",
     "static/media/Sameerkumar-Padhy-Resume.pdf": "/static/media/Sameerkumar-Padhy-Resume.2d42a554026f4fc0751a.pdf",
     "static/media/cypress.png": "/static/media/cypress.d77f8449ebe8b2bcfa8d.png",
-    "static/media/Fire.gif": "/static/media/Fire.90b493aa82972410ff7e.gif",
+    "static/media/Pear_pic.png": "/static/media/Pear_pic.7509adf664bf9cde76b2.png",
     "static/media/sam_logo.png": "/static/media/sam_logo.c8c5f91e2d3ebf8a2a75.png",
     "static/media/express.png": "/static/media/express.c1af1dd1c23d9e6dc11d.png",
     "index.html": "/index.html",
     "main.57d7df8d.css.map": "/static/css/main.57d7df8d.css.map",
-    "main.141f6772.js.map": "/static/js/main.141f6772.js.map",
+    "main.75bea68c.js.map": "/static/js/main.75bea68c.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d7df8d.css",
-    "static/js/main.141f6772.js"
+    "static/js/main.75bea68c.js"
   ]
 }
